@@ -62,5 +62,28 @@ There following are key metrics obtained from the dataset:
 - **Bike Stations**: Thereare Eight hundred and two (802) bike stations, this was obtained by taking a Unique Count of the Start or End Station ID.
 - **Average Ride Duration (Mins)**: An average ride lasted for about 20.7 mins. This was obtained by taking the average of the duration of rides within the dataset.
 
+![TFLDashboard](https://github.com/eikeakanam/TFLBikeRides/assets/75729930/e535067a-028b-4df2-b1c4-43d233a9c32b)
+
+### KEY FINDINGS
+### Bike Ride Count (Aggregation)
+- People cycled the most during the summer season with approximately 43% of bike rides closely followed in second by Spring season with 36%
+- It is also no surprise that the months with the most bike rides recorded were July and June respectively both during the summer season.
+- In terms of the day of the week, people cycled mostly on thursday and saturday respectively with saturday being a weekend being a key factor.
+- The peak hours with the highest volume of bike rides were 6pm - 7pm and 8am - 9am respectively. This could largely indicate the period most people leave and return to their respective homes daily.
+- Lastly the busiest stations (top 3) were located within Hyde Park, closely followed by King's Cross, The Borough and Kensignton Gardens respectively.
+
+![volume1](https://github.com/eikeakanam/TFLBikeRides/assets/75729930/b7a9fac5-b89e-4518-bd20-cf9c1702a481)
+
+![Volume2](https://github.com/eikeakanam/TFLBikeRides/assets/75729930/1adc53d0-d184-48b3-bdb6-80f6918263a2)
+
+### DURATION
+- An average ride lasted approximately 21mins with cyclists riding longer over the weekend on Saturday and Sunday respectively.
+- For months, the longest rides were recorded in December, June, August and July respectively.
+- There was no significant difference in terms of the average ride duration recorded across all four seasons. Cyclist rode slightly longer in the summer with an average duration of 22 mins, Spring (20.67mins), Autumn (18.9mins) and Winter (18.1mins) respectively.
+- In terms of hour of the day, the longest rides was surprisingly recorded few hours after midnight between 3am - 4am and 2am - 3am respectively. 
+
+![duration1](https://github.com/eikeakanam/TFLBikeRides/assets/75729930/f8043781-05c7-4cc9-85ae-9ddec0e17b48)
+
+
 
 
