@@ -84,6 +84,18 @@ There following are key metrics obtained from the dataset:
 
 ![duration1](https://github.com/eikeakanam/TFLBikeRides/assets/75729930/f8043781-05c7-4cc9-85ae-9ddec0e17b48)
 
+## Conclusion and Recommendation
+- People cycle more and longer during the summer, this could be largely influenced by the weather condiitions being more friendly with less rains and more heat as opposed to the extreme cold weather conditions experienced during Winter.
+- People also cycle longer over the weekend and more safety measures should be put in place by the government to ensure safety of cyclists. This is also applicable for the Summer season.
+- To acheive its goal of having 80% of trips in London being predominantly through walking, cycling and public transportation, there should be more sensitization programmes within locations with moderate to extremely low adoption of cycling as a means of transportation with emphasis on its safety and impact on the wellness of individuals
+
+## Future Analytics
+For further investigation, it will be helpful if the following information was made available on the dataset to understand their impact on cycling pattern and adoption in London and the UK at large
+- Temperature / weather condition
+- Demography of cyclists (Age, Gender, Race, Employment Status, Income Level, etc.)  
+- Safety status (accidents free)
+- Comparison of the records and patterns with the year 2023 TFL cycling dataset
+- Comparison of cycling records and pattern with records obtained from other major cities
 
 
 
