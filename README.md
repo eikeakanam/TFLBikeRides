@@ -90,6 +90,8 @@ The TFL 2022 Bike Rides Report was published to my Workspace on Power BI Service
 
 Subsequently,  a dashboard was created under my workspace on Power BI Service by pinning visuals from the report as seen in the image below.
 
+![Dashboard1](https://github.com/eikeakanam/TFLBikeRides/assets/75729930/9d61cb8c-bcae-4e02-b7c3-f9c830108d54)
+
 
 ## Conclusion and Recommendation
 ___
