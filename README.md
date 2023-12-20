@@ -56,7 +56,7 @@ A pictorial overview of both reports is displayed below:
 
 ### Key Metrics
 
-There following are key metrics obtained from the dataset:
+The following key metrics were obtained from the dataset:
 - **Total Rides**: There were Eight million, Nine Hundred and Thirty Thousand (8.93 million) rides  recorded in the scheme in the year 2022. This was obtained by taking the count of valid records in the model using the Primary Key - Rented ID. This can also be obtained using the DAX function COUNTROW against the table.
 - **Total Bikes**: There was approximately 15,000 bikes actively used by cyclists in the year 2022. This was obtained by taking a Unique count of the Bike ID from the dataset
 - **Bike Stations**: Thereare Eight hundred and two (802) bike stations, this was obtained by taking a Unique Count of the Start or End Station ID.
