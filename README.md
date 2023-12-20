@@ -108,5 +108,9 @@ For further investigation, it will be helpful if the following information was m
 - Comparison of the records and patterns with the year 2023 TFL cycling dataset
 - Comparison of cycling records and pattern with data obtained from other major cities across the United Kingdom
 
+## RESOURCES: REPORT DOWNLOAD LINK
+- [TFL Bike Ride Power BI File](https://drive.google.com/file/d/1u4M2P68rqPMJCWdbPbzr1kXrGYcp0hee/view?usp=sharing)
+- [TFL Bike Ride Report File (.pdf)](https://drive.google.com/file/d/1f5C4NtOJeuqwPD3j5Y4yVId_MTDNrav2/view?usp=sharing)
+
 
 
