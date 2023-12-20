@@ -79,7 +79,7 @@ There following are key metrics obtained from the dataset:
 ### DURATION
 - An average ride lasted approximately 21mins with cyclists riding longer over the weekend on Saturday and Sunday respectively.
 - For months, the longest rides were recorded in December, June, August and July respectively.
-- There was no significant difference in terms of the average ride duration recorded across all four seasons. Cyclist rode slightly longer in the summer with an average duration of 22 mins, Spring (20.67mins), Autumn (18.9mins) and Winter (18.1mins) respectively.
+- There was no significant difference in terms of the average ride duration recorded across all four seasons. Cyclists rode slightly longer in the summer with an average duration of 22 mins, Spring (20.67mins), Autumn (18.9mins) and Winter (18.1mins) respectively.
 - In terms of hour of the day, the longest rides was surprisingly recorded few hours after midnight between 3am - 4am and 2am - 3am respectively. 
 
 ![duration1](https://github.com/eikeakanam/TFLBikeRides/assets/75729930/f8043781-05c7-4cc9-85ae-9ddec0e17b48)
