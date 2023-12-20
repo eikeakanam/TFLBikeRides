@@ -106,7 +106,7 @@ For further investigation, it will be helpful if the following information was m
 - Demography of cyclists (Age, Gender, Race, Employment Status, Income Level, etc.)  
 - Safety status (accidents free)
 - Comparison of the records and patterns with the year 2023 TFL cycling dataset
-- Comparison of cycling records and pattern with records obtained from other major cities
+- Comparison of cycling records and pattern with data obtained from other major cities across the United Kingdom
 
 
 
